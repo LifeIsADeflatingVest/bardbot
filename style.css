@@ -1,0 +1,47 @@
+body {
+	background-color:black;
+	color:cornsilk;
+	font-family:Verdana;
+	margin:10px;
+	padding:10px;
+}
+h1 {
+	font-size:1.3em;
+}
+h2 {
+	font-size:1.2em;
+}
+p {
+	font-size:1em;
+	margin-top: 10px;
+}
+button {
+	background-color: cornsilk;
+	color:black;
+	padding:10px;
+	border-radius: 10px;
+	box-shadow:  3px 3px 5px coral;
+	margin-top:20px;
+	font-family:Verdana;
+	font-size:1.1em;
+}
+#container {
+	text-align:center;
+	margin:auto;
+	width:30%;
+	border: 2px solid cyan;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow:  3px 3px 5px coral;
+}
+#userInput {
+	width:80%;
+	font-size:1.1em;
+	padding: 10px;
+	margin: auto;
+	border-radius: 10px;
+}
+#int {
+	color: cyan;
+	padding: 5px;
+}
